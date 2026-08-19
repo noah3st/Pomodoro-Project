@@ -16,3 +16,4 @@ When the timer hits zero, the interval clears and the user gets an alert to take
 Tech stack
 HTML5
 JavaScript (DOM manipulation, setInterval, event listeners)
+(Screenshots available in Zip folder)
