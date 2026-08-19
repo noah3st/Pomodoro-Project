@@ -1,2 +1,2 @@
 # Pomodoro-Project
-Pomodoro Timer
+Pomodoro Timer(Screenshots available in zip folder)
